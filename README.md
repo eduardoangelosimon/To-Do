@@ -12,7 +12,6 @@ Esse é um projeto desenvolvido para ajudar as pessoas a se organizar com os com
 
 - Cadastrar evento
 - Deletar evento
-- Escolher data pelo calendário
 - Escolher contagem regressiva de dias
 - Navegação entre páginas
 
