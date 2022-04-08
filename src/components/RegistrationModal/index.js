@@ -30,12 +30,6 @@ const RegistrationModal = () => {
       return;
     }
 
-    if (typeof days !== "number") {
-      alert('Por favor, informe a data como um número!');
-      setModalVisible(true);
-      return;
-    }
-
     Alert.alert("Evento criado com sucesso");
     clearAllInputs();
     setModalVisible(false);
